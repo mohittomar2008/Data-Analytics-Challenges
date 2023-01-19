@@ -1,2 +1,2 @@
 # iNeuron-FSDA
-iNeuron FSDA assignments
+iNeuron FSDA Challenges
